@@ -28,4 +28,4 @@ Languages  :  Python
 ---
 
 ![](https://komarev.com/ghpvc/?username=najmul190&style=flat-square&color=blueviolet)
-<p style="font-size: 6px">README inspired by <a href="https://github.com/5R33CH4/5R33CH4/blob/main/README.md">sreecha</a></p>
+<p style="font-size: 6px">README shamefully stolen. (can find the original anymore)</p>
