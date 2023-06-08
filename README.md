@@ -13,7 +13,7 @@ github.com/Najmul190
       CPU  :  Ryzen 5 3600
     Alias  :  Najmul
 Languages  :  Python
-  Discord  :  Najmul#0001
+  Discord  :  Najmul
 ```
 ---
 
