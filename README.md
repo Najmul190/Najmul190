@@ -15,7 +15,3 @@ github.com/Najmul190
 Languages  :  Python
   Discord  :  najmul
 ```
----
-
-![](https://komarev.com/ghpvc/?username=najmul190&style=flat-square&color=blueviolet)
-<p style="font-size: 6px">README shamefully stolen. (cant find the original anymore)</p>
