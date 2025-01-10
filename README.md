@@ -12,6 +12,6 @@ github.com/Najmul190
       GPU  :  RTX 2070  
       CPU  :  Ryzen 5 3600
     Alias  :  Najmul
-Languages  :  Python
+Languages  :  Python, JS
   Discord  :  najmul
 ```
