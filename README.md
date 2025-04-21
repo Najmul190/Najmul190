@@ -8,9 +8,6 @@
 github.com/Najmul190
 ----------------
 
-       OS  :  Windows 11
-      GPU  :  RTX 2070  
-      CPU  :  Ryzen 5 3600
     Alias  :  Najmul
 Languages  :  Python, JS
   Discord  :  najmul
